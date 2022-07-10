@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = timothee.robertfaille@gmail.com
+	name = Timothee Robert-Faille
